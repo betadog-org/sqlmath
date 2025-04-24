@@ -572,4 +572,3 @@ https://www.sqlite.org/2025/sqlite-autoconf-3490100.tar.gz
     fi
     git --no-pager diff
 )}
-
